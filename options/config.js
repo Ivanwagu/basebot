@@ -23,15 +23,15 @@ global.APIKeys = {
 
 //━━━━━━━━━━━━━━━[ SETTING ]━━━━━━━━━━━━━━━━━//
 global.thumb = fs.readFileSync('./image/thumbnail.jpg') // JGN DI UBAH!
-global.name = 'Aulia Rahman (Owner)', // GNTI NAMA LU!
-global.creator = 'LiaaCans BOT' // GANTI NAMA BOT LU BANH!
-global.owner = ['6285821676621'] // GNTI NOMOR LU!
-global.premium = ['6285821676621']
-global.quotes = 'Kesempatan Anda Untuk Sukses Di Setiap Kondisi Selalu Dapat Diukur Oleh Seberapa Besar Kepercayaan Anda Pada Diri Sendiri' // Ganti Quotes, Tapi Trsrh Klian
-global.pulsa = ['081528965381'] // UBAH NOMOR YG AKTIF!
-global.botname = 'LiaaCans BOT' // GNTI NAMA BOT LU!
-global.packname = 'Nih Stikel Umtukmu' // TRSERAH MO GANTI AP!
-global.author = 'LiaaCans BOT' // GNTI NMA LU!
+global.name = 'sans (Owner)', // GNTI NAMA LU!
+global.creator = 'sans BOT' // GANTI NAMA BOT LU BANH!
+global.owner = ['6285876830674'] // GNTI NOMOR LU!
+global.premium = ['6285876830674']
+global.quotes = 'enakan turu' // Ganti Quotes, Tapi Trsrh Klian
+global.pulsa = ['6285876830674'] // UBAH NOMOR YG AKTIF!
+global.botname = 'Sans BOT' // GNTI NAMA BOT LU!
+global.packname = 'stiker' // TRSERAH MO GANTI AP!
+global.author = 'Sans BOT' // GNTI NMA LU!
 global.prefa = ['','!','.','/','#','$']
 global.sp = '⭔' // JGN DI UBAH²! NTR EROR
 global.mess = {
