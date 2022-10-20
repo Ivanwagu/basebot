@@ -1,1 +1,1 @@
-worker: node . --session 'qrmd.json'
+worker: node main
